@@ -1,0 +1,4 @@
+name: IFS
+dependencies:
+  - numpy
+  - matplotlib
